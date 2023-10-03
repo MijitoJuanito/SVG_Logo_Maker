@@ -1,0 +1,1 @@
+{"name":"svglogomaker","version":"1.0.0","description":"","main":"index.js","scripts":{"test":"jest","start":"node index.js"},"directories":{"example":"Examples","lib":"lib"},"author":"","license":"MIT","dependencies":{"inquirer":"^8.2.4"},"devDependencies":{"jest":"^29.7.0"}}
